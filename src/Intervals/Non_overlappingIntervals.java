@@ -1,3 +1,5 @@
+package Intervals;
+
 import java.util.Arrays;
 
 public class Non_overlappingIntervals

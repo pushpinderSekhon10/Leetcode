@@ -1,3 +1,5 @@
+package Greedy;
+
 public class JumpGame2
 {
     public int jump(int[] nums) {
